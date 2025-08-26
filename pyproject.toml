@@ -1,0 +1,22 @@
+[project]
+name = "csvauto"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "autoviz>=0.1.905",
+    "bokeh>=3.7.3",
+    "fastapi>=0.116.1",
+    "groq>=0.31.0",
+    "holoviews>=1.21.0",
+    "ipython>=9.4.0",
+    "matplotlib>=3.10.5",
+    "pandas>=2.3.2",
+    "panel>=1.7.5",
+    "python-multipart>=0.0.20",
+    "seaborn>=0.13.2",
+    "setuptools>=80.9.0",
+    "uvicorn>=0.35.0",
+    "xgboost>=1.6.2",
+]
